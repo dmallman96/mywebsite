@@ -3,10 +3,8 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: images/ant_jump.tiff
+  image: images/ant_jump.jpg
 ---
-
-:::{#me}
 
 I am a PhD candidate studying at USYD. I love ants
 
