@@ -8,12 +8,11 @@ about:
 
 :::{#me}
 
-## Goals
+I am a PhD candidate studying at USYD. I love ants
 
 ## Education
+MRES @ MQ
+PHD @ USYD
 
 ## Experience
-
-:::
-
-Thanks for checking out my web site!
+Teaching experience 
