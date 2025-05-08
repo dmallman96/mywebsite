@@ -8,19 +8,18 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - projects.qmd
     tools:
-      - icon: twitter
-        href: https://twitter.com/
-      - icon: github
-        href: https://github.com/dmallman96/mywebsite
+      - icon: book
+        href: https://scholar.google.com.au/citations?view_op=list_works&hl=en&user=EJzZvOYAAAAJ&gmla=AIfU4H76cl-gMSFa6zlgdAhH02pVZVMqxO4gnIpnafhIses84Bxx6BBCA4xEdmc-Gj7XbaAxlbUM8f3oSQK_nN3ZKM0cmALZ-ZTPsFHeshgHk34u_TtS
+
+
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
     left: "&copy; Copyright 2023, Daniel Alman"
 
 format:
   html:
-    theme: cerulean
+    theme: simplex
     toc: true
 
 editor: source

@@ -3,7 +3,7 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: images/ant_jump.png
 ---
 
 :::{#me}
@@ -11,7 +11,7 @@ about:
 I am a PhD candidate studying at USYD. I love ants
 
 ## Education
-MRES @ MQ
+MRES @ MQ  
 PHD @ USYD
 
 ## Experience

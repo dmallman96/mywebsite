@@ -13,6 +13,8 @@ Give it a star!
 
 - Change the photo in the `img` folder to your photo.
 
+- add custom google scholar icon https://github.com/quarto-dev/quarto-cli/discussions/5816
+
 - Choose a theme from [https://bootswatch.com/](https://bootswatch.com/) and replace "cerulean" in `_quarto.yml` with your prefered theme.
 
 - Add additional tabs/sections by creating new `.qmd` files and listing them in `_quarto.yml` under `projects.qmd`.
