@@ -11,8 +11,6 @@ Give it a star!
 
 - Add content to `index.qmd` as desired.
 
-- Add content to `projects.qmd` as desired.
-
 - Change the photo in the `img` folder to your photo.
 
 - Choose a theme from [https://bootswatch.com/](https://bootswatch.com/) and replace "cerulean" in `_quarto.yml` with your prefered theme.
