@@ -2,22 +2,29 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About Me",
+    "title": "Daniel Allman",
     "section": "",
-    "text": "I am a PhD candidate studying at USYD. I love ants\n\n\nMRES @ MQ\nPHD @ USYD\n\n\n\nTeaching experience"
+    "text": "I am a PhD candidate studying at USYD. I love ants"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Daniel Allman",
+    "section": "",
+    "text": "I am a PhD candidate studying at USYD. I love ants"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
-    "title": "About Me",
-    "section": "",
-    "text": "MRES @ MQ\nPHD @ USYD"
+    "title": "Daniel Allman",
+    "section": "Education",
+    "text": "Education\nMRES @ MQ\nPHD @ USYD"
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
-    "title": "About Me",
-    "section": "",
-    "text": "Teaching experience"
+    "title": "Daniel Allman",
+    "section": "Experience",
+    "text": "Experience\nTeaching experience"
   }
 ]

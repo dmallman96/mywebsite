@@ -1,11 +1,12 @@
 ---
-title: "About Me"
+title: ""
 about:
   id: me
   template: broadside
   image: images/ant_jump.jpg
 ---
 
+## About me
 I am a PhD candidate studying at USYD. I love ants
 
 ## Education
