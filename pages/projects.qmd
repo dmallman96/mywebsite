@@ -9,9 +9,8 @@ I am fascinated by a wide range of topics. Here are a few that I am currently in
 ramble
 
 # Jumping Insects
-You might think that jumping is easy, but when you are an insect that is hundreds of times smaller than you it is actually quite a difficult task to achieve. I am fascinated as to how, despite being so challenging, insects jump frequently as they explore their world, catch prey, and escape predators. My findings were published in my [Masters thesis](https://doi.org/10.25949/26793253.v1) and one cool discovery was that one group of Australian ants that were said to be incapable of jumping were actually capable of leaping 3–4 cm.
+You might think that jumping is easy, but when you are an insect that is hundreds of times smaller than you it is actually quite a difficult task to achieve. I am fascinated as to how, despite being so challenging, insects jump frequently as they explore their world, catch prey, and escape predators. My findings were published in my 
+<a href="https://doi.org/10.25949/26793253.v1" target="_blank">Masters thesis</a>
+and one cool discovery was that one group of Australian ants that were said to be incapable of jumping were actually capable of leaping 3–4 cm.
 
 ![The first public photo of the Australian ant *Myrmecia tarsata* jumping!](images/ant_jump.jpg)
-
-
-<a href="http://example.com/" target="_blank">Hello, world!</a>
