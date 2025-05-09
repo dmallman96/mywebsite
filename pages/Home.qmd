@@ -2,7 +2,7 @@
 title: ""
 ---
 
-INSERT PHOTO HERE 
+INSERT PHOTO HERE
 <br>
 
 # About Me  
