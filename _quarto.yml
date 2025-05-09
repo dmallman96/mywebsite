@@ -5,9 +5,10 @@ project:
     - CNAME
 
 website:
-  title: ""
+  title: "test"
   navbar:
     logo: pages/images/ant_jump.jpg
+    logo-href: daniel_allman.qmd
     left:
       - href: pages/daniel_allman.qmd
         text: Daniel Allman
@@ -24,7 +25,6 @@ website:
       - icon: person-circle
         href: https://orcid.org/0009-0000-2249-2841
         target: _blank
-        
   page-footer:
     right: "&copy; Copyright 2025, Daniel Allman"
 
