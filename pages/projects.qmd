@@ -3,14 +3,17 @@ title: "Projects"
 format: html
 ---
 
-I am fascinated by a wide range of topics. Here are a few that I am currently interested in or working on: <br>
+A wide range of topics facinate me. Here are a few that I am currently working on: <br>
 
-# Invertebrate Pain
-ramble
+# Can Invertebrates Feel Pain?
+Humans have long thought that pain is an experience exclusive to us. Recently, however, we have realised that other animals such as non-human mammals, birds, reptiles, fish, cephalopods, and crustaceans respond to noxious stimuli in a way that is consistent with the idea of suffering and pain. The issue is that insects compose over 75% of all named species in the world yet it remains unknown if these animals are capable of suffering like all other tested animal groups.
+<br>
+<br>
+INSERT PHOTO OF INSECT GROOMING HERE
 
-# Jumping Insects
-You might think that jumping is easy, but when you are an insect that is hundreds of times smaller than you it is actually quite a difficult task to achieve. I am fascinated as to how, despite being so challenging, insects jump frequently as they explore their world, catch prey, and escape predators. My findings were published in my 
-<a href="https://doi.org/10.25949/26793253.v1" target="_blank">Masters thesis</a>
-and one cool discovery was that one group of Australian ants that were said to be incapable of jumping were actually capable of leaping 3–4 cm.
+# Biomechanics of Jumping Insects
+You might think that a jump is an easy thing to do, but it is actually quite difficult task for an insect that is a thousand times smaller than we are. I am fascinated as to how, despite being so challenging, insects jump frequently as they explore their world, catch prey, and escape predators. My findings were published in my 
+<a href="https://doi.org/10.25949/26793253.v1" target="_blank">Master of Research thesis</a>
+with a cool discovery being that one group of Australian ants that were said to be incapable of jumping for the last 100 years were actually capable of leaping 3–4 cm to  move about their environment effeciently.
 
-![The first public photo of the Australian ant *Myrmecia tarsata* jumping!](images/ant_jump.jpg)
+![The first photograph of the Australian ant *Myrmecia tarsata* mid jump!](images/ant_jump.jpg)

@@ -2,22 +2,22 @@
   {
     "objectID": "pages/photos.html",
     "href": "pages/photos.html",
-    "title": "",
+    "title": "Photos",
     "section": "",
-    "text": "I love taking photos. Here are some of my favourites:"
+    "text": "float: left; background: #FFFFFF; border: 1px solid #333; border-color: hsla(0, 0%, 0%, 0.5); border-radius: 5px;\n\n\n\n\n\nexample-caption-01\n\n\n\n\n\n\n\nexample-caption-02\n\n\n\n\n\n\n\nexample-caption-03\n\n\n\n\n\n\n\nexample-caption-04\n\n\n\n\n\n\n\nexample-caption-05\n\n\n\n\nI love taking photos. Here are some of my favourites:"
   },
   {
     "objectID": "pages/projects.html",
     "href": "pages/projects.html",
     "title": "Projects",
     "section": "",
-    "text": "I am fascinated by a wide range of topics. Here are a few that I am currently interested in or working on: \n\nInvertebrate Pain\nramble\n\n\nJumping Insects\nYou might think that jumping is easy, but when you are an insect that is hundreds of times smaller than you it is actually quite a difficult task to achieve. I am fascinated as to how, despite being so challenging, insects jump frequently as they explore their world, catch prey, and escape predators. My findings were published in my Masters thesis and one cool discovery was that one group of Australian ants that were said to be incapable of jumping were actually capable of leaping 3–4 cm.\n\n\n\nThe first public photo of the Australian ant Myrmecia tarsata jumping!"
+    "text": "A wide range of topics facinate me. Here are a few that I am currently working on: \n\nCan Invertebrates Feel Pain?\nHumans have long thought that pain is an experience exclusive to us. Recently, however, we have realised that other animals such as non-human mammals, birds, reptiles, fish, cephalopods, and crustaceans respond to noxious stimuli in a way that is consistent with the idea of suffering and pain. The issue is that insects compose over 75% of all named species in the world yet it remains unknown if these animals are capable of suffering like all other tested animal groups.   INSERT PHOTO OF INSECT GROOMING HERE\n\n\nBiomechanics of Jumping Insects\nYou might think that a jump is an easy thing to do, but it is actually quite difficult task for an insect that is a thousand times smaller than we are. I am fascinated as to how, despite being so challenging, insects jump frequently as they explore their world, catch prey, and escape predators. My findings were published in my Master of Research thesis with a cool discovery being that one group of Australian ants that were said to be incapable of jumping for the last 100 years were actually capable of leaping 3–4 cm to move about their environment effeciently.\n\n\n\nThe first photograph of the Australian ant Myrmecia tarsata mid jump!"
   },
   {
     "objectID": "pages/index.html",
     "href": "pages/index.html",
     "title": "About Me",
     "section": "",
-    "text": "About Me\nI’m Daniel, a PhD candidate from the University of Sydney, Australia. This website is a test to slowly build my academic profile. I created this in Jupyter using Joyce Robbins’ template and guide (https://github.com/jtr13/website-template).  Go give it a star and play around if you want to do something similar!\n\n\nEducation\n2018–2021 - Bachelor of Marine Science at Macquarie University  2022–2024 - Master of Research at Macquarie University  2025–Present - Doctor of Philosophy at University of Sydney\n\n\nExperience\nxxx"
+    "text": "INSERT PHOTO HERE \n\nAbout Me\nI’m Daniel, a PhD candidate from the University of Sydney, Australia. This website is a test to slowly build my academic profile. I created this in Jupyter using Joyce Robbins’ template and guide (https://github.com/jtr13/website-template).  Go give it a star and play around if you want to do something similar!\n\n\nEducation\n2018–2021 - Bachelor of Marine Science at Macquarie University  2022–2024 - Master of Research at Macquarie University  2025–Present - Doctor of Philosophy at University of Sydney\n\n\nExperience\nxxx"
   }
 ]

@@ -1,6 +1,51 @@
 ---
-title: ""
+title: "Photos"
 format: html
+lightbox: true
+filters:
+  - masonry
+include-in-header: 
+  - text: |
+      <style>
+        .grid-item {
+            width: 33%;
+            border: 1px solid;
+        }
+        figcaption {
+            display: none;
+        }
+        .quarto-figure {
+            margin-bottom: -9px;
+            }
+      </style>
+engine: quarto
 ---
 
+float: left;
+            background: #FFFFFF;
+            border: 1px solid #333;
+            border-color: hsla(0, 0%, 0%, 0.5);
+            border-radius: 5px;
+            
+            
+
+:::: {.grid data-masonry='{ "itemSelector": ".grid-item" }'}
+:::{.grid-item}
+![example-caption-01](images/ant_jump.jpg)
+:::
+:::{.grid-item}
+![example-caption-02](images/ant_jump.jpg)
+:::
+:::{.grid-item}
+![example-caption-03](images/ant_jump.jpg)
+:::
+:::{.grid-item}
+![example-caption-04](images/ant_jump.jpg)
+:::
+:::{.grid-item}
+![example-caption-05](images/ant_jump.jpg)
+:::
+::::
+
 I love taking photos. Here are some of my favourites:
+
