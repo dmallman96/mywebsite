@@ -7,6 +7,7 @@ project:
 website:
   title: ""
   navbar:
+    logo: pages/images/ant_jump.jpg
     left:
       - href: pages/daniel_allman.qmd
         text: Daniel Allman
