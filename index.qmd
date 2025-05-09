@@ -1,17 +1,19 @@
 ---
 title: ""
-about:
-  id: me
-  template: broadside
-  image: images/ant_jump.jpg
 ---
 
-## About me
-I am a PhD candidate studying at USYD. I love ants
+![](images/ant_jump.jpg)
 
-## Education
-MRES @ MQ  
-PHD @ USYD
+<br>
 
-## Experience
-Teaching experience 
+# About Me  
+I'm Daniel, a PhD candidate from the University of Sydney, Australia. This website is a test to slowly build my academic profile. I created this in Jupyter using Joyce Robbins' template and guide (https://github.com/jtr13/website-template). <br>
+Go give it a star and play around if you want to do something similar!
+
+# Education
+2018–2021 - Bachelor of Marine Science at Macquarie University <br>
+2022–2024 - Master of Research at Macquarie University <br>
+2025–Present - Doctor of Philosophy at University of Sydney
+
+# Experience
+xxx

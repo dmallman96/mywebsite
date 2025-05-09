@@ -1,30 +1,23 @@
 [
   {
+    "objectID": "photos.html",
+    "href": "photos.html",
+    "title": "Daniel Allman",
+    "section": "",
+    "text": "I love taking photos. Here are some of my favourites:"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Daniel Allman",
+    "section": "",
+    "text": "Here are some projects I am interested in / working on:"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Daniel Allman",
+    "title": "About Me",
     "section": "",
-    "text": "I am a PhD candidate studying at USYD. I love ants"
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Daniel Allman",
-    "section": "",
-    "text": "I am a PhD candidate studying at USYD. I love ants"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Daniel Allman",
-    "section": "Education",
-    "text": "Education\nMRES @ MQ\nPHD @ USYD"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Daniel Allman",
-    "section": "Experience",
-    "text": "Experience\nTeaching experience"
+    "text": "About Me\nI’m Daniel, a PhD candidate from the University of Sydney, Australia. This website is a test to slowly build my academic profile. I created this in Jupyter using Joyce Robbins’ template and guide (https://github.com/jtr13/website-template).  Go give it a star and play around if you want to do something similar!\n\n\nEducation\n2018–2021 - Bachelor of Marine Science at Macquarie University  2022–2024 - Master of Research at Macquarie University  2025–Present - Doctor of Philosophy at University of Sydney\n\n\nExperience\nxxx"
   }
 ]
