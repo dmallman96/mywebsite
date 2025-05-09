@@ -4,7 +4,7 @@
     "href": "pages/photos.html",
     "title": "Photos",
     "section": "",
-    "text": "float: left; background: #FFFFFF; border: 1px solid #333; border-color: hsla(0, 0%, 0%, 0.5); border-radius: 5px;\n\n\n\n\n\nexample-caption-01\n\n\n\n\n\n\n\nexample-caption-02\n\n\n\n\n\n\n\nexample-caption-03\n\n\n\n\n\n\n\nexample-caption-04\n\n\n\n\n\n\n\nexample-caption-05\n\n\n\n\nI love taking photos. Here are some of my favourites:"
+    "text": "I love taking photos. Here are some of my favourites:  \n\n\n\n\n\nexample-caption-01\n\n\n\n\n\n\n\nexample-caption-02\n\n\n\n\n\n\n\nexample-caption-03\n\n\n\n\n\n\n\nexample-caption-04\n\n\n\n\n\n\n\nexample-caption-05"
   },
   {
     "objectID": "pages/projects.html",

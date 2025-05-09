@@ -9,7 +9,7 @@ include-in-header:
       <style>
         .grid-item {
             width: 33%;
-            border: 1px solid;
+            outline: 1px solid black;
         }
         figcaption {
             display: none;
@@ -21,13 +21,9 @@ include-in-header:
 engine: quarto
 ---
 
-float: left;
-            background: #FFFFFF;
-            border: 1px solid #333;
-            border-color: hsla(0, 0%, 0%, 0.5);
-            border-radius: 5px;
-            
-            
+I love taking photos. Here are some of my favourites:
+<br>
+<br>
 
 :::: {.grid data-masonry='{ "itemSelector": ".grid-item" }'}
 :::{.grid-item}
@@ -46,6 +42,4 @@ float: left;
 ![example-caption-05](images/ant_jump.jpg)
 :::
 ::::
-
-I love taking photos. Here are some of my favourites:
 
