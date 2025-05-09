@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - CNAME
   
 website:
   title: "Daniel Allman"
@@ -21,7 +23,8 @@ website:
 format:
   html:
     theme: simplex
-    toc: true
 
 editor: source
+
+
 
