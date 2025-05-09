@@ -8,11 +8,11 @@ website:
   title: "Daniel Allman"
   navbar:
     left:
-      - href: index.qmd
+      - href: pages/index.qmd
         text: Home
-      - href: projects.qmd
+      - href: pages/projects.qmd
         text: Projects
-      - href: photos.qmd
+      - href: pages/photos.qmd
         text: Photos
         
     tools:

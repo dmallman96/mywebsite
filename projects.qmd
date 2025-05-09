@@ -1,6 +1,0 @@
----
-title: ""
-format: html
----
-
-Here are some projects I am interested in / working on:

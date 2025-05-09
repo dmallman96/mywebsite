@@ -1,21 +1,21 @@
 [
   {
-    "objectID": "photos.html",
-    "href": "photos.html",
+    "objectID": "pages/photos.html",
+    "href": "pages/photos.html",
     "title": "Daniel Allman",
     "section": "",
     "text": "I love taking photos. Here are some of my favourites:"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Daniel Allman",
+    "objectID": "pages/projects.html",
+    "href": "pages/projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "Here are some projects I am interested in / working on:"
+    "text": "I am fascinated by a wide range of topics. Here are a few that I am currently interested in or working on: \n\nInvertebrate Pain\nramble\n\n\nJumping Insects\nYou might think that jumping is easy, but when you are an insect that is hundreds of times smaller than you it is actually quite a difficult task to achieve. I am fascinated as to how, despite being so challenging, insects jump frequently as they explore their world, catch prey, and escape predators. My findings were published in my Masters thesis and one cool discovery was that one group of Australian ants that were said to be incapable of jumping were actually capable of leaping 3–4 cm.\n\n\n\nThe first public photo of the Australian ant Myrmecia tarsata jumping!"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "pages/index.html",
+    "href": "pages/index.html",
     "title": "About Me",
     "section": "",
     "text": "About Me\nI’m Daniel, a PhD candidate from the University of Sydney, Australia. This website is a test to slowly build my academic profile. I created this in Jupyter using Joyce Robbins’ template and guide (https://github.com/jtr13/website-template).  Go give it a star and play around if you want to do something similar!\n\n\nEducation\n2018–2021 - Bachelor of Marine Science at Macquarie University  2022–2024 - Master of Research at Macquarie University  2025–Present - Doctor of Philosophy at University of Sydney\n\n\nExperience\nxxx"
