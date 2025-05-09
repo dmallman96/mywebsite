@@ -19,8 +19,9 @@ website:
         text: Contact
       - icon: mortarboard
         href: https://scholar.google.com.au/citations?view_op=list_works&hl=en&user=EJzZvOYAAAAJ&gmla=AIfU4H76cl-gMSFa6zlgdAhH02pVZVMqxO4gnIpnafhIses84Bxx6BBCA4xEdmc-Gj7XbaAxlbUM8f3oSQK_nN3ZKM0cmALZ-ZTPsFHeshgHk34u_TtS
+        target: _blank
       - icon: person-circle
-        href: https://orcid.org/0009-0000-2249-
+        href: https://orcid.org/0009-0000-2249-2841
         target: _blank
         
   page-footer:
