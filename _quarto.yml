@@ -10,13 +10,13 @@ website:
   navbar:
     pinned: true
     logo: pages/images/ant_jump.jpg
-    logo-href: daniel_allman.qmd
+    logo-href: Home.qmd
     right:
-      - href: pages/projects.qmd
+      - href: pages/Projects.qmd
         text: Projects
-      - href: pages/photos.qmd
+      - href: pages/Photos.qmd
         text: Photos
-      - href: pages/contact.qmd
+      - href: pages/Contact.qmd
         text: Contact
 
       - icon: mortarboard
@@ -25,6 +25,7 @@ website:
       - icon: person-circle
         href: https://orcid.org/0009-0000-2249-2841
         target: _blank
+  
   page-footer:
     right: "&copy; Copyright 2025, Daniel Allman"
 
