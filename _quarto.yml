@@ -5,7 +5,7 @@ project:
     - CNAME
   
 website:
-  title: "Daniel Allman"
+  title: ""
   navbar:
     left:
       - href: pages/index.qmd
