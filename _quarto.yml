@@ -5,13 +5,12 @@ project:
     - CNAME
 
 website:
-  title: "test"
+  title: "Daniel Allman"
+  search: false
   navbar:
+    pinned: true
     logo: pages/images/ant_jump.jpg
     logo-href: daniel_allman.qmd
-    left:
-      - href: pages/daniel_allman.qmd
-        text: Daniel Allman
     right:
       - href: pages/projects.qmd
         text: Projects
